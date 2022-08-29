@@ -20,3 +20,6 @@ The following is the process taken in wrangling the dataset:
 ## Exploratory Data Analysis (EDA)
 EDA was carried on the features: `popularity, runtime, vote_count, relaese_year` was carried out with respect to the target variable, `revenue_adj` to explore the relationships between them. Histograms were used to check the distributions of the features of interest. While the scatter plots were used to investigate the relationship between the features of interst and the target variable which is the revenue. Line chart was used to check the annual revenue trend in the dataset.
 
+## Conclusions
+The analyses show that popularity is moderately positively correlated with annual revenue generation. It can also be observed that the movie industry revenue is growing over time despite some momentary declines as indicated by the line chart of the annual revenue. The industry has grown in revenue from 950 million USD in 1960 to 24 billion USD in 2015. This industry is worth investing in!
+
