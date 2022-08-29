@@ -1,4 +1,4 @@
-# Investigation-of-the-Annual-Revenue-Trend-of-the-Movie-Industry
+# Investigation of the Annual Revenue Trend of the Movie Industry
 
 <img src="movie.png" alt="movies pic" style="max-width: 100%;">
 
