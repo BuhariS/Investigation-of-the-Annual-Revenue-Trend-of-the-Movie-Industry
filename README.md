@@ -17,3 +17,5 @@ The following is the process taken in wrangling the dataset:
 - a function that drops rows equal to some certain values was defined for code reusability
 - all records with zero revenue , which is our target feature, will be dropped using the function mentioned above.
 
+## Exploratory Data Analysis (EDA)
+EDA was carried on the features: `popularity, runtime, vote_count, relaese_year` was carried out with respect to the target variable, `revenue_adj` to explore the relationships between them.
