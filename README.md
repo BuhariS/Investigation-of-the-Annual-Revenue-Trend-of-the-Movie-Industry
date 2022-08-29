@@ -18,4 +18,5 @@ The following is the process taken in wrangling the dataset:
 - all records with zero revenue , which is our target feature, will be dropped using the function mentioned above.
 
 ## Exploratory Data Analysis (EDA)
-EDA was carried on the features: `popularity, runtime, vote_count, relaese_year` was carried out with respect to the target variable, `revenue_adj` to explore the relationships between them.
+EDA was carried on the features: `popularity, runtime, vote_count, relaese_year` was carried out with respect to the target variable, `revenue_adj` to explore the relationships between them. Histograms were used to check the distributions of the features of interest. While the scatter plots were used to investigate the relationship between the features of interst and the target variable which is the revenue. Line chart was used to check the annual revenue trend in the dataset.
+
