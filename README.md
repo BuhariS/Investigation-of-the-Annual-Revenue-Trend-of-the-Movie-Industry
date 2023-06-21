@@ -9,6 +9,12 @@ The movie industry is a thriving billion-dollar sector that consistently generat
 
 ## Dataset Description 
 The dataset examined in this project comprises a rich collection of features from approximately 10,000 movies sourced from The Movie Database (TMDb) [1](https://docs.google.com/document/d/e/2PACX-1vTlVmknRRnfy_4eTrjw5hYGaiQim5ctr9naaRd4V9du2B5bxpd8FEH3KtDgp8qVekw7Cj1GLk1IXdZi/pub?embedded=True). TMDb, a community-driven platform established in 2008, has been a trusted resource for movie enthusiasts and industry professionals alike. With a dedicated community supporting its growth, TMDb has garnered significant traction over the years, currently boasting a user base of over 400,000 developers leveraging its extensive metadata [2](https://www.themoviedb.org/about). This vast community involvement and usage reflect the reliability and relevance of the dataset, making it an invaluable resource for conducting in-depth analysis and deriving meaningful insights in this project.
+### Dependencies
+To run this project successfully, one needs to install and import the following dependencies:
+- [NumPy](https://numpy.org)
+- [Pandas](https://pandas.pydata.org)
+- [Seaborn](https://seaborn.pydata.org)
+- [Matplotlib](https://matplotlib.org)
 
 ## Data Wrangling 
 During the dataset wrangling process, the following steps were taken:
@@ -44,3 +50,5 @@ Notably, the data showcases a remarkable increase in revenue from 950 million US
 
 Considering the positive correlation between popularity and revenue, coupled with the consistent growth observed in the industry over the years, it becomes evident that investing in the movie industry can be a promising opportunity. The data supports the notion that the movie industry offers a favorable environment for investment, making it an attractive choice for prospective investors seeking potential financial success.
 
+## License
+The project is licensed under the MIT License.
