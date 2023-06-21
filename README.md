@@ -24,9 +24,23 @@ During the dataset wrangling process, the following steps were taken:
 By following this systematic approach to data wrangling, we ensured that the dataset was prepared appropriately for subsequent analysis, maintaining data integrity and aligning with the objectives of the project.
 
 
-## Exploratory Data Analysis (EDA)
-EDA was carried on the features: `popularity, runtime, vote_count, relaese_year` was carried out with respect to the target variable, `revenue_adj` to explore the relationships between them. Histograms were used to check the distributions of the features of interest. While the scatter plots were used to investigate the relationship between the features of interst and the target variable which is the revenue. Line chart was used to check the annual revenue trend in the dataset.
+## Exploratory Data Analysis (EDA) 
+Exploratory Data Analysis (EDA) was conducted on several key features, namely `popularity, runtime, vote_count,` and `release_year`, in relation to the target variable, `revenue_adj`. The purpose of this analysis was to uncover and understand the relationships between these variables. 
+
+To examine the distributions of the features of interest, histograms were employed. These visualizations provided insights into the spread and frequency of values within each feature. By analyzing the shapes of the histograms, we gained an understanding of the data's distribution characteristics.
+
+Additionally, scatter plots were utilized to investigate the relationship between the features of interest and the target variable, revenue. This allowed for a visual exploration of any potential correlations or patterns between these variables. By plotting the data points on a scatter plot, we could assess the strength and direction of the relationship.
+
+Furthermore, a line chart was employed to examine the annual revenue trend within the dataset. This visualization enabled us to observe any notable patterns or fluctuations in revenue over time, providing valuable insights into the overall revenue trajectory of the movies.
+
+By leveraging these various visualizations during the EDA process, we gained a comprehensive understanding of the relationships, distributions, and trends within the dataset. These insights would serve as a foundation for further analysis and decision-making throughout the project.
 
 ## Conclusions
-The analyses show that popularity is moderately positively correlated with annual revenue generation. It can also be observed that the movie industry revenue is growing over time despite some momentary declines as indicated by the line chart of the annual revenue. The industry has grown in revenue from 950 million USD in 1960 to 24 billion USD in 2015. This industry is worth investing in!
+The analyses reveal a significant correlation between popularity and annual revenue generation in the movie industry. The moderate positive correlation indicates that movies with higher popularity tend to generate higher revenue. This suggests that audience preferences and engagement play a crucial role in driving revenue.
+
+Furthermore, the line chart depicting the annual revenue trend illustrates the overall growth of the movie industry over time. While there may be occasional dips in revenue, the chart demonstrates a consistent upward trajectory. This indicates that despite temporary declines, the industry has experienced substantial growth, evolving into a lucrative market for investors.
+
+Notably, the data showcases a remarkable increase in revenue from 950 million USD in 1960 to an impressive 24 billion USD in 2015. This significant growth reinforces the notion that the movie industry holds immense potential for generating substantial returns on investment.
+
+Considering the positive correlation between popularity and revenue, coupled with the consistent growth observed in the industry over the years, it becomes evident that investing in the movie industry can be a promising opportunity. The data supports the notion that the movie industry offers a favorable environment for investment, making it an attractive choice for prospective investors seeking potential financial success.
 
